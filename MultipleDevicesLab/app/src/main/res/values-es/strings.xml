@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_prompt">¿Quieres saber que pasar en tres meses?</string>
+    <string name="button_text">Taconear aqui =D</string>
+    <string name = "answer_text">Tu sera muy bueno developero! Trabajar mucho!</string>
+</resources>

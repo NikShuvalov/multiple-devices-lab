@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="user_prompt">Omellette du fromage en trois mois?</string>
+    <string name= "button_text">Cliquez sur-moi :)</string>
+    <string name="answer_text">Vous serez un developpeur exceptionnel! Vive la revolucion!</string>
+</resources>
